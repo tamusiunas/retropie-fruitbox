@@ -6,7 +6,7 @@
 - Open a ssh session for Retropie using user pi and type:
 
 ```bash
-
+wget https://raw.githubusercontent.com/tamusiunas/retropie-fruitbox/main/install-fruitbox-on-retropie.bash -O - | bash
 ```
 
 - Songs (mp3) must be uploaded to /home/pi/Music
